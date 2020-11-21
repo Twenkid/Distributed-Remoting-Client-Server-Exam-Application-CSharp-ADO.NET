@@ -1,0 +1,17 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication2.Properties.Resources.resources
+obj\Debug\Client3.csproj.GenerateResource.Cache
+bin\Debug\Client3.exe
+bin\Debug\Client3.pdb
+bin\Debug\clientobj.pdb
+obj\Debug\Client3.exe
+obj\Debug\Client3.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication2.Form1.resources
+obj\Release\WindowsApplication2.Properties.Resources.resources
+obj\Release\Client3.csproj.GenerateResource.Cache
+obj\Debug\WindowsApplication2.Form2.resources
+obj\Debug\WindowsApplication2.Form1.resources
+obj\Debug\WindowsApplication2.FormSetup.resources
+obj\Release\WindowsApplication2.Form2.resources
+obj\Release\WindowsApplication2.FormSetup.resources
