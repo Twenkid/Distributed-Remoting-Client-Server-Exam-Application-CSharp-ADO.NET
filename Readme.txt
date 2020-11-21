@@ -3,7 +3,7 @@ Client-Server Application with Remoting and ADO.NET in C# by Todor Arnaudov, 12.
 
 Two classes of users: authors and readers.
 The authors can create tests and check the results of the readers.
-The readers could take exams.
+The readers can take exams.
 
 Some users and passwords: [in a DB which I used at the University - now a new Database has to be created and filled with data]:
 
