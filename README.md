@@ -9,6 +9,8 @@ The readers can take exams.
 
 Some users and passwords: [in a DB which I used at the University - now a new Database has to be created and filled with data]:
 
+![image](/cliient.png)
+
 Authors:
 qq qq
 go 56
