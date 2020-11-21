@@ -1,4 +1,4 @@
-# Remoting-Client-Server-Exam-Application-CSharp-ADO.NET
+# Distributed Remoting Client-Server Exam Application CSharp ADO.NET
 
 Client-Server Application with Remoting and ADO.NET in C# by Todor Arnaudov, 12.2006 (@ Github 11.2020)
 (A course project at Plovdiv University)
